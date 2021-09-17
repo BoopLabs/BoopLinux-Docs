@@ -1,1 +1,3 @@
-# Boop! Linux Documentation
+*****
+Boop! Linux Documentation
+*****
